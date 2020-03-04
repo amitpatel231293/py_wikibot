@@ -1,0 +1,21 @@
+#LWP-Cookies-2.0
+Set-Cookie3: centralauth_Token=8f7777608a3ec9c591efdf40f7713479; path="/"; domain=".commons.wikimedia.org"; path_spec; secure; expires="2019-05-10 13:20:44Z"; httponly=None; version=0
+Set-Cookie3: centralauth_User=Rocky231293; path="/"; domain=".commons.wikimedia.org"; path_spec; secure; expires="2019-05-10 13:20:44Z"; httponly=None; version=0
+Set-Cookie3: forceHTTPS=true; path="/"; domain=".commons.wikimedia.org"; path_spec; expires="2018-06-09 13:20:44Z"; httponly=None; version=0
+Set-Cookie3: WMF-Last-Access-Global="17-May-2018"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2018-06-18 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: centralauth_Token=8f7777608a3ec9c591efdf40f7713479; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2019-05-17 07:12:56Z"; httponly=None; version=0
+Set-Cookie3: centralauth_User=Rocky231293; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2019-05-17 07:12:56Z"; httponly=None; version=0
+Set-Cookie3: forceHTTPS=true; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; expires="2018-06-16 07:12:56Z"; httponly=None; version=0
+Set-Cookie3: WMF-Last-Access="10-May-2018"; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2018-06-11 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: commonswikiUserID=7136572; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2019-05-10 13:20:44Z"; httponly=None; version=0
+Set-Cookie3: commonswikiUserName=Rocky231293; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2019-05-10 13:20:44Z"; httponly=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2018-1j8dj99-9s050dm7iqt4r6frb2qnaz4nlphofog"; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2018-11-06 13:20:44Z"; httponly=None; version=0
+Set-Cookie3: WMF-Last-Access="17-May-2018"; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2018-06-18 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: enwikiUserID=33490418; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2019-05-17 07:12:56Z"; httponly=None; version=0
+Set-Cookie3: enwikiUserName=Rocky231293; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2019-05-17 07:12:56Z"; httponly=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2018-ppi9ul-2gss13m6e6an2v9harn76pacnr3b8j4.2018-1fe0xf5-bq6yom29narhwqlikmkx4wppdioxpmk"; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2018-11-13 07:12:56Z"; httponly=None; version=0
+Set-Cookie3: centralauth_Token=17c7bb12f3f13baa6170be22e999ef96; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2019-04-13 02:55:40Z"; httponly=None; version=0
+Set-Cookie3: centralauth_User=Rocky231293; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2019-04-13 02:55:40Z"; httponly=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2018-nojwxe-j49nje1obqjv92osgqecqabjhmks0vi.2018-1u1orox-fsc3w850b899tejadgk5ghgvsnwri8s"; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2018-10-10 02:55:40Z"; httponly=None; version=0
+Set-Cookie3: wikidatawikiUserID=2954598; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2019-04-13 02:55:40Z"; httponly=None; version=0
+Set-Cookie3: wikidatawikiUserName=Rocky231293; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2019-04-13 02:55:40Z"; httponly=None; version=0
